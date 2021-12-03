@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Avatar",
+        "director": "James Cameron",
+        "year": "2010",
+        "rating": "9.2"
+    },
+    {
+        "id": "1",
+        "title": "Batman the dark knight",
+        "director": "Cristopher Nolan",
+        "year": "2008",
+        "rating": "10.0"
+    }
+]
